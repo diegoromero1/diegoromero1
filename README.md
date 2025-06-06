@@ -11,7 +11,7 @@ About Me 🤓
 ---
 
 ## 🔭 Currently Working At:
-**Abastecedora General de Insumos El Alro S.A**  
+**Abastecedora General de Insumos El Alto S.A**  
 **Position:** Full Stack Developer
 
 ---
