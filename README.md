@@ -42,7 +42,7 @@ Automated business processes using APIs (Service Layer), including:
 
 ### 💻 Backend & Frontend Development
 - **Backend:** Python 🐍  
-- **Frontend:** React ⚛️ (TypeScript / JavaScript / Node.js / Tailwind CSS)  
+- **Frontend:** React ⚛️ (TypeScript / JavaScript / Node.js / Tailwind CSS) React Native for mobile for apps   
 - Focused on scalability, maintainability, and performance
 
 ### 🗃️ Database Design & Management
